@@ -1,0 +1,18 @@
+
+				</BANKTRANLIST>
+
+				<LEDGERBAL>
+					<BALAMT>$balamt
+					<DTASOF>$dtasof[-5:EST]
+				</LEDGERBAL>
+
+				<AVAILBAL>
+					<BALAMT>$balamt
+					<DTASOF>$dtasof[-5:EST]
+				</AVAILBAL>
+
+			</STMTRS>
+		</STMTTRNRS>
+	</BANKMSGSRSV1>
+
+</OFX>
