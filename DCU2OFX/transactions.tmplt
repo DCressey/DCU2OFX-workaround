@@ -1,0 +1,9 @@
+						<STMTTRN>
+							<TRNTYPE>$TRNTYPE
+							<DTPOSTED>$DTPOSTED[-5:EST]
+							<TRNAMT>$TRNAMT
+							<FITID>$FITID
+							<NAME>$NAME
+							<MEMO>$MEMO
+						</STMTTRN>
+
