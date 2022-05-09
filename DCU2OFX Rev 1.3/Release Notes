@@ -1,0 +1,3 @@
+Release Rev 1.3 fixes several errors in Rev 1.2.  This release writes files in ASCII.  This release uses the field ID (hashed) to provide an eight character identifier. This release omits the MEMO field entirely.  This release cuts the NAME field to 25 characters.  The Credit script has been crippled, but it has all the future code in it.  The output from CHECKING, SAVINGS, and LOAN has been tested under OXFAnalyzer, and checks out ok.
+
+I expect that this version will produce output that can be imported into MS MONEY (2005). 
