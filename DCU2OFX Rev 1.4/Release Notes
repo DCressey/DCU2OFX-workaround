@@ -1,0 +1,6 @@
+This is Rev 1.4 of DCU2OFX.  This rev makes some minor changes to Rev 1.3.  The function to process credit card files has been excluded.  The config file has been removed.  Code was added to extract the final balance and the start and end dates for a batch of transcations from the transaction data.  The actual account number was replaced by a dummy account number.  This rev should meet the needs of most users until The DCU online banking feature makes downloading transaction files unnecessary.
+
+There may be issues with the processing of credit card files.  The analyzer I use datects parsing errors,  but I think those errors are really ok.
+Please let me know if there are other changes that need to be made.
+
+The file Powershell.exe is an error. I include a fiel ps.lnk to serve as a shortcut to powershell.  Github cahnges this to powershell.exe.
